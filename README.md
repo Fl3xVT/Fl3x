@@ -1,5 +1,5 @@
 - 👋 Hola, Soy @Fl3xVT
-- 👀 He/Hem | Él
+- 👀 He/Him | Él
 - 🌱 Programador principiante
 - 💞️ Plugins en mine
 - 📫 Utilizo java, pero sé muy poco
